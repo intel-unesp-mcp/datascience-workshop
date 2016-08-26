@@ -1,2 +1,2 @@
-Workshop HPC + Data Science (FATEC)
+Workshop HPC + Data Science
 ===================================
